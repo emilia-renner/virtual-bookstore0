@@ -1,0 +1,47 @@
+header {
+	margin: 0;
+	border: 0;
+	padding: 0;
+	display: flex;
+  font-family: "Georgia";
+    width: 100%;
+	justify-content: space-between;
+	align-items: flex-end;
+}
+
+h1 {
+  font-family: "Georgia";
+  font-size: 56px;
+  font-weight: normal;
+  color: #223A52;
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  margin: 0;
+  padding: 0;
+}
+
+h3 {
+  margin: 0;
+  padding: 0;
+}
+
+.intro-title {
+    max-width: 700px;
+    font-size: 20px;
+    font-weight: 200;
+    line-height: 1.6;
+    margin-bottom: 40px;
+    margin: 0 auto;
+}
+
+.description {
+    max-width: 700px;
+    font-size: 20px;
+    font-weight: 200;
+    line-height: 1.6;
+    margin-bottom: 40px;
+    margin: 0 auto;
+}
