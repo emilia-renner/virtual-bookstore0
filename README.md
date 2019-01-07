@@ -44,6 +44,10 @@ The website can be accessed at http://34.212.220.165/ (or http://34.212.220.165.
 
 One can log in to the server with ssh -p 2200 -i ~/.ssh/grader_key.pub grader@34.212.220.165.
 
+### References
+
+I used Google and StackOverflow to research, and relied on the forum on Digital Ocean's website as well for tutorials, and looked at some Github repositories such as https://github.com/boisalai/udacity-linux-server-configuration for help.
+
 ### Known Errors
 
 - Not all the functions of the Item Catalog project are available on this server project and are being worked on.
